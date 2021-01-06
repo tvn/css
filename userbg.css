@@ -1,0 +1,12 @@
+/*Sets default user popout position to center.*/
+
+.userPopout-3XzG_A {
+	--user-popout-position: center;
+}
+
+/*kql#1111*/
+
+[user_by_bdfdb*="738257999704883271"],
+[data-user-id*="738257999704883271"] {
+	--user-background: url('https://tenor.com/view/wikawdo-nigga-penis-shit-ball-fart-sex-cereal-poop-ass-gif-19395902');
+}
